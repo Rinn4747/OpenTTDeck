@@ -1,0 +1,6 @@
+[Module]
+Name=OpenTTDeck
+Version=1
+Files=openttdeck.lua
+Enabled=1
+Dependencies=minionlib
